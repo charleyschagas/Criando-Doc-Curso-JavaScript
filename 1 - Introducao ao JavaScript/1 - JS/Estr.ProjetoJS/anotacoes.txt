@@ -1,0 +1,70 @@
+
+1 - Criando arquivos de teste para importação no HTML:
+
+    1.1 - Colocando uma cor no CSS cinza para testar a importação do CSS:
+        body {
+            color: gray;
+        }
+
+    1.2 - Cirando um console para importar e testar o scripts JS:
+        console.log("Hello World!");
+
+2 - Fazendo as importações no index.HTML:
+
+    2.1 - Importação do arquivo CSS:
+        <link rel="stylesheet" href="assets/css/styles.css" />
+
+    2. 2 - Importação do arquivo Java Scripts:
+        <script src="assets/js/scripts.js"></script>
+
+3 - DOM - Document Object Model (Estrutura dos elementos
+dentro da janela)
+
+    3.1 - Manipulando HTM com JS dentro do Console WEB:
+        document.getElementsByTagName('h1')
+        HTMLCollection [h1]
+
+        var heading1 = document.getElementsByTagName ('h1')[0]
+
+        <h1>​Olá mundo!​</h1>​
+        heading1.style.color = 'red'
+        'red'
+
+        A cor do texto mudou para vermelho.
+
+4 - Atividade, criando um contador:
+        Neste projeto, iremos fazer nossa primeira integração de um código Javascript com uma página HTML.
+
+        Dicas
+        Caso você queira ir além, aqui estão dicas de coisas para tentar: algumas
+
+        Tente implementar os eventos usando o método addEventListener.
+        Crie condicionais que desabilitam o botão de incrementar ou decrementar quando countchegar a um determinado valor (ex.: 0 <= count =< 10) .
+        Mude a cor do texto em CURRENT_NUMBERvermelho quando o número for negativo.
+
+5 - Neste projeto, criaremos uma simples lista de tarefas.
+
+        Instruções
+        Antes de clonar o projeto, tente fazer seguindo as instruções abaixo:
+
+        Crie um campo de inputtexto e um botão para adicionar uma tarefa à lista;
+        Quando o botão for listado, o texto deve aparecer na lista com um checkboxlado;
+        Quando o usuário selecionar ou ficar checkbox, ou item correspondente deve com o texto riscado. (ex.:tarefa completa. dica: você pode resolver isso facilmente com CSS)
+
+6 - Mercado de Trabalho:
+    6.1 - Frameworks:
+         - VueJS;
+         - Angular;
+         - React;
+         - jQuery.
+
+    6.2 - Documentação:
+         - MDN web docs (moz;lla);
+         - W3C;
+         - DIO;
+         - YouTube;
+         - GitHub;
+         - Twiter;
+         - Limkedin;
+         - Starkoverflow.
+

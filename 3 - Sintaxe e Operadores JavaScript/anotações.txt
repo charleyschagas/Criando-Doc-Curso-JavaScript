@@ -1,0 +1,56 @@
+Sintaxe e Operadores
+
+Principais operadores utilizados no mercado de trabalho:
+1 - Aritimética;
+2 - Atribuição;
+3 - Comparação;
+4 - Lógica;
+5 - Condicional.
+
+
+1 - Operadores de Atribuição (Operadores, Exemplo e Equivalencia):
+=     x = y      x = y          x = y
++=    x += y     x = x + y      x = x+y
+*=    x *= y     x = x * y      x = x*y
+/=    x *= y     x = x / y      x = x/y
+%=    x %= y     x = x % y      x = x%y
+
+2 - Operadores de Aritimética (Operador e Descição):
+
++       Adição
+-       Subtração
+*       Multiplicação
+**      Exponecial
+/       Divisão
+%       Módulo
+++      Incrementar
+--      Descrementar
+
+3 - Operadores de COmparação (Operador e Descição):
+==      Igual a
+===     Mesmo valor e mesmo tipo
+!=      Diferente
+!==     Valor e tipos diferentes
+>       Maior que
+<       Menor que
+>=      Maior ou igual
+<=      Menor ou igual
+
+4 - Operadores de Lógica (Operador e Descição):
+
+&&      "e" lógico
+||      "ou" lógico
+!       "não" lógico
+
+5 - Operadores Condicionais:
+
+(condition) ? expression1 : expression2
+
+**(usado na substituição do "if", "else")
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+@import  url ( 'https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap' );
+
+* {
+    font-family :  'Open Sans' , sans-serif;
+}
+
+corpo {
+    exibição : flexível;
+    align-items : centro;
+    justificar-conteúdo : centro;
+    flex-direction : coluna;
+    cor de fundo :  rgb ( 177 ,  225 ,  255 );
+}
+
+botão {
+    altura :  40px ; _
+    largura :  40px ; _
+    raio de borda :  50 % ;
+    borda :  2 px de coral de luz sólido;
+    cor de fundo :  rgb ( 241 ,  214 ,  214 );
+    cor : coral claro;
+    tamanho da fonte :  16 pt ;
+    peso da fonte :  600 ;
+    text-align : centro;
+    
+}
+
+# contador {
+    exibição : flexível;
+}
+
+# currentNumero {
+    exibição : flexível;
+    align-items : centro;
+    margem :  0  20 px ;
+    tamanho da fonte :  16 pt ;
+}
