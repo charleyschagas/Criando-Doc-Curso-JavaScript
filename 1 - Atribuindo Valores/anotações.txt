@@ -1,0 +1,50 @@
+## Atribuição de Valores
+
+Case Type                               Exemplo                 Boas Práticas de Programação
+Original Variable as String             some awesome var
+Camel Case                              someAwesomeVar          Muito utilizado para Variáves e Funções
+Snake Case                              some_awesome_var
+Kebab Case                              some-awesome-var
+Pascal Case                             SomeAwesomeVar
+Upper Case Snake Case                   SOME_AWESOME_VAR        Muito utilizado para constantes
+
+
+## Variaveis (Var e Let):
+
+var a = 1
+var b = 2
+
+if (a == 1) {
+    var a = 11; // the scope is global
+    let b = 22; // the scope is the if block
+
+    console.log(a); // 11
+    console.log(b); // 22
+}
+
+console.log(a); // 11
+console.log(b); // 2
+
+Obs: Var e Let tem scope diferentes sendo que o Var é uma variavel global e o Let é uma variável de block.
+
+Conseitos:
+Escopos diferentes;
+Hoisting;
+Redeclaração;
+Reatribuição;
+CamelCase;
+
+## Constantes:
+
+Declarar em SNAKE_UPPER_CASE;
+Escopo de bloco;
+Não faz Hoisting;
+
+## var, let e const:
+
+                VAR             CONST           LET
+Escopo          global          bloco           bloco
+Redeclarar      sim             não             não
+Reatribuir      sim             não             sim
+Hoisting        sim             não             não
+
