@@ -1,0 +1,55 @@
+## Tipos de dados:
+
+## Estrutura de dados:
+1 - Principais estruturas de dados do JavaScripit e seus principais métodos.
+
+JavaScript é uma linguagem dinânmica. 
+Ou seja, antes de declarar um valor, você não especifica o tipo dele.
+
+Obs: typeof é usado para saber o pipo da variavel (string, number, etc.).
+
+Data Types in JavaScripit
+    Primitive Types  -  null - undefined
+        numbers
+        strings
+        boolean
+
+    Composite/Non-Primitive Types
+        Objects
+        Arrays
+
+
+## Strings
+
+- Comumente utilizada para textos;
+- Valores declarados entre aspas ou crases.
+
+** Pesquisar e estudar Strings afundo na documentação do JS
+
+## Numbers
+
+- Números inteiros ou decimais
+
+** Pesquisar e estudar Numbers afundo na documentação do JS
+
+## Booleans
+
+** Pesquisar e estudar Booleans afundo na documentação do JS
+
+## Arrays ou Vetores
+
+- Listas Interáveis de elementos.
+
+** Pesquisar e estudar Arrays afundo na documentação do JS
+
+## Objetos
+
+Estrutura "Chave e Valor"
+
+** Pesquisar e estudar Objetos afundo na documentação do JS
+
+## Empty, null e undefined
+
+Empty - é quando um valor é iniciado com zero ou nada. pode ser um Arrays, Strings, number, etc.
+
+
